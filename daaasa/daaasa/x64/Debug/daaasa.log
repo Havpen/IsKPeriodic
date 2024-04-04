@@ -1,0 +1,4 @@
+﻿  daaasa.cpp
+D:\VS COM SAVES\daaasa\daaasa\daaasa.cpp(6,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VS COM SAVES\daaasa\daaasa\daaasa.cpp(17,1): warning C4715: IsKPeriodic: значение возвращается не при всех путях выполнения
+  daaasa.vcxproj -> D:\VS COM SAVES\daaasa\x64\Debug\daaasa.exe
